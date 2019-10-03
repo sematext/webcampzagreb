@@ -14,7 +14,9 @@ Sources we used for the learning methods research. I tried to include links were
  * Swanson Lee, "Verbal Short-Term Memory Encoding of Learning Disabled, Deaf, and Normal Readers", Learning Disability Quarterly, 1982 (https://journals.sagepub.com/doi/10.2307/1510612)
 
 ## Dancer, Box King, Parrot Methods
-TODO
+ * Nicholas C. Soderstrom, Robert A. Bjork, "Learning Versus Performance: An Integrative Review", Perspectives on Psychological Science, 2015 (https://www.researchgate.net/publication/275355435_Learning_Versus_Performance_An_Integrative_Review)
+ * Kelli Taylor, Doug Rohrer, "The Effect of Interleaved Practice", Applied Cognitive Psychology, 2010 (https://www.researchgate.net/publication/227530785_The_Effects_of_Interleaved_Practice)
+ * Aimee A. Callender, Mark A. Mcdaniel, "The limited benefits of rereading educational texts", Contemporary Educational Psychology, 2009 (https://www.researchgate.net/publication/223870202_The_limited_benefits_of_rereading_educational_texts) 
 
 ## Place Switch Method
  * HARRY M. GRANT, LANE C. BREDAHL, JOHN CLAY, JENNIFER FERRIE, JANE E. GROVES, TIMOTHY A. McDORMAN and VERONICA J. DARK, "Context-Dependent Memory for Meaningful Material: Information for Students", APPLIED COGNITIVE PSYCHOLOGY, VOL. 12, 617-623, 1988 (http://www.as.wvu.edu/psyc101/contents/extra_credit/Ch07ec.pdf)

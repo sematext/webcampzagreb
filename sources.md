@@ -29,3 +29,70 @@ Sources we used for the learning methods research. I tried to include links were
  * Glover John, "The "Testing" Phenomenon: Not Gone but Nearly Forgotten", Journal of Educational Psychology, 1989 (https://pdfs.semanticscholar.org/55ea/c2f382e515f4df22a2d98996d2a3aedb25b0.pdf)
  * Mark A. McDaniel, Pooja K. Agarwal, "Test-Enhanced Learning in a Middle School Science Classroom: The Effects of Quiz Frequency and Placement", Journal of Educational Psychology, 2011 (https://pdfs.semanticscholar.org/780e/e39bcd30d72dd4702eee9245f725922838d9.pdf)
  * Henry L. Roediger, III, and Jeffrey D. Karpicke, "The Power of Testing MemoryBasic Research and Implications for Educational Practice", Perspectives On Psychological Science, 2006 (https://scinapse.io/papers/2133705455) 
+ 
+ # Sources for other sections of the talk
+ 
+ 
+Brain memory badwidth depends on the task
+
+https://www.technologyreview.com/s/415041/new-measure-of-human-brain-processing-speed/
+https://www.nicolamorgan.com/wellbeing-and-stress-management/brain-bandwidth-explanation-everything/
+https://aeon.co/ideas/the-human-brains-bandwidth-for-visual-images-is-severely-limited
+
+Some of the links below + many more can be found here in two books:
+
+https://www.amazon.com/How-Changes-Your-Brain-Neuroscientist/dp/0345503422
+https://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/B004U8EVG2/ref=sr_1_1
+
+3-5 chunks of data can be held in short term memory
+
+https://www.ncbi.nlm.nih.gov/pubmed/11515286
+
+Multitasking limitations
+
+https://science.sciencemag.org/content/328/5976/360.abstract
+
+Brain's enery consumption
+
+https://books.google.ro/books?id=Af0IyHtGCMUC (starting from page 529 there's a chapter about metabolism)
+https://www.ncbi.nlm.nih.gov/pubmed/11598490
+
+Explicit and implicit learning of patterns
+
+https://www.academia.edu/13772006/A_PET_investigation_of_implicit_and_explicit_sequence_learning
+
+On (un)certainty vs decision-making and performance
+
+http://www.its.caltech.edu/~camerer/Ec101/Hsu05.pdf
+https://www.researchgate.net/publication/6342334_Performance-Approach_and_Performance-Avoidance_Goals_When_Uncertainty_Makes_a_Difference
+
+Negative perceptions are stronger than positive ones
+
+https://www.researchgate.net/publication/46608952_Bad_Is_Stronger_than_Good
+
+Context switching costs
+
+https://www.researchgate.net/publication/232496441_Costs_of_a_Predictable_Switch_Between_Simple_Cognitive_Tasks
+http://www.psy.vanderbilt.edu/faculty/logan/SchneiderLogan_2005_JEPG.pdf
+
+Prefrontal cortex is needed to inhibit distractions
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2991430/
+
+Impact of unfinished tasks
+
+https://en.wikipedia.org/wiki/Ovsiankina_effect
+
+Accomplishing tasks generates dopamine
+
+http://www.scholarpedia.org/article/Reward_signals
+
+On the importance of autonomy
+
+https://hbr.org/2014/11/what-maslows-hierarchy-wont-tell-you-about-motivation
+
+On meditation and prayer and the effect on the brain
+
+https://journals.sagepub.com/doi/abs/10.2466/pms.2003.97.2.625
+http://www.cogsci.ucsd.edu/~pineda/COGS175/readings/Newberg.pdf
+https://www.transformchaplaincy.org/2017/10/16/cognitive-decline-in-alzheimer-disease-impact-of-spirituality-religiosity-and-qol/

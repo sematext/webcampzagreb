@@ -52,6 +52,10 @@ Multitasking limitations
 
 https://science.sciencemag.org/content/328/5976/360.abstract
 
+Fixed vs growth mindset
+
+https://www.amazon.co.uk/Mindset-Updated-Changing-Fulfil-Potential-ebook/dp/B01M036N60/ref=dp_kinw_strp_1
+
 Brain's enery consumption
 
 https://books.google.ro/books?id=Af0IyHtGCMUC (starting from page 529 there's a chapter about metabolism)
@@ -87,6 +91,9 @@ Accomplishing tasks generates dopamine
 
 http://www.scholarpedia.org/article/Reward_signals
 
+Intentional context switching (cognitive shifting) and creativity
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.144
 On the importance of autonomy
 
 https://hbr.org/2014/11/what-maslows-hierarchy-wont-tell-you-about-motivation
@@ -96,3 +103,34 @@ On meditation and prayer and the effect on the brain
 https://journals.sagepub.com/doi/abs/10.2466/pms.2003.97.2.625
 http://www.cogsci.ucsd.edu/~pineda/COGS175/readings/Newberg.pdf
 https://www.transformchaplaincy.org/2017/10/16/cognitive-decline-in-alzheimer-disease-impact-of-spirituality-religiosity-and-qol/
+
+Sleep impact on amygdala reactivity
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747835/
+
+One of N references that snoozing and looking at screens right after waking up are anti-patterns
+
+https://newsroom.clevelandclinic.org/2019/03/08/is-hitting-the-snooze-button-bad-for-your-health/
+https://www.elitedaily.com/p/is-it-bad-to-look-at-your-phone-right-when-you-wake-up-it-might-be-sabotaging-your-day-8437383
+
+Low fat diets and fueling the brain
+
+https://www.psychologytoday.com/us/blog/evolutionary-psychiatry/201104/your-brain-ketones
+https://en.wikipedia.org/wiki/Gluconeogenesis
+
+On status threats
+
+http://dcntp.org/wp-content/uploads/2015/03/Readiness_for_change.pdf
+
+Impact of status on interpersonal relations
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4955850/
+
+Internalizing status threats is "racket system" in Transactional Analysis theory
+
+https://www.slideshare.net/manumjoy/racket-analysis-transactional-analysis-manu-melwin-joy
+
+The concept of emotional reactivity and managing it comes from the Bowen Theory for analyzing systems (typically families, but also workplaces)
+
+http://thebowencenter.org/theory/eight-concepts/
+
